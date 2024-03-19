@@ -1,0 +1,29 @@
+{
+  "name": "susanmartin",
+  "version": "1.0.0",
+  "description": "A Node.js module providing utilities for Susanmartin and random trivia retrieval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusanMartin0466086/susanmartin"
+  },
+  "dependencies": {
+	  "pp06": "1.0.0",
+"elizabethmiller-v2": "1.0.0",
+"cell-potapovvlad": "1.0.0",
+"annef-js": "1.0.0",
+"potapovvlad": "1.0.0",
+"string-filatovmark": "1.0.0",
+"mod-sandrajones": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusanMartin0466086/susanmartin/issues"
+  },
+  "homepage": "https://github.com/SusanMartin0466086/susanmartin#readme"
+}
